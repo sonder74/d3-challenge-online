@@ -100,14 +100,4 @@ Your final product will be assessed on the following metrics:
 
 * Completion of all steps in the core assignment
 
-* Coherency of scatter plot (labels, ticks)
 
-* Visual attraction
-
-* Professionalism
-
-**Good luck!**
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
