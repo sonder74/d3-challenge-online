@@ -10,7 +10,7 @@
    
 
 ## Project Goals
-With this project, I was introduced to D3, a challenging method of using JavaScript to render scalable vector graphics (SVGs) inside web browsers. I was given a set of healthcare data and tasked with creating a webpage showcasing an interactive, multidimensional chart that allows users to customize their own visualizations of the information.
+With this project, I was introduced to <a href="https://en.wikipedia.org/wiki/D3.js">D3</a>, a challenging method of using JavaScript to render scalable vector graphics (SVGs) inside web browsers. I was given a set of healthcare data and tasked with creating a webpage showcasing an interactive, multidimensional chart that allows users to customize their own visualizations of the information.
 
 ## Tools and Solutions
 After receiving classroom instruction on the uses of HTML and CSS, I had to learn to utilize <a href="https://getbootstrap.com/">Bootstrap</a>, an open-source CSS framework that can speed up the web-design process and make finished sites responsive to the devices accessing them. I also had to return to both <a href="https://www.python.org/">Python</a> and <a href="https://pandas.pydata.org/">Pandas</a> in order to generate <a href="https://sonder74.github.io/latitude/data">a dynamic table</a> embedded in my site's final page</a>.
