@@ -13,7 +13,7 @@
 With this project, I was introduced to <a href="https://en.wikipedia.org/wiki/D3.js">D3</a>, a particularly challenging method of using <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> to render <a href="https://en.wikipedia.org/wiki/Scalable_Vector_Graphics">scalable vector graphics (SVGs)</a> inside web browsers. I was given a set of healthcare data and asked to create a webpage showcasing an interactive, multidimensional chart that gives users the power to customize their own visualizations of the information.
 
 ## Tools and Solutions
-First, I used D3 to create an SVG to encase my chart and imported the data using JavaScripts forEach function.
+I began by using D3 to create an SVG to encase my chart. Then I imported the data by building a loop that takes advantage of JavaScript's <a href="https://www.w3schools.com/jsref/jsref_foreach.asp">forEach</a> function. I scaled the chart dynamically using the six of the dataset different dimensions, appended a D3 scatter plot to the individual datapoints, and created JavaScript <a href="https://www.computerhope.com/jargon/e/event-listener.htm">event listeners</a> for each of the clickable axis categories. The final product features nine possible combinations of user-designated imputs, with transition-and-duration animations courtesy of JavaScript and CSS
 
 ## Outcomes and Lessons Learned
 After some practice, I became more familiar and comfortable with Bootstrap's coding structure, and generating new web pages became much easier. My finished site contains pop-up visualizations, a navigation-bar dropdown menu, a dynamic HTML table, and more. It is currently hosted by GitHub Pages <a href="https://sonder74.github.io/latitude/">here</a>.
