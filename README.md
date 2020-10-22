@@ -1,4 +1,4 @@
-# Web Design Challenge (Grade: A+)
+# D3 Challenge (Grade: A+)
  
 ### Table of Contents:
 
@@ -10,7 +10,7 @@
    
 
 ## Project Goals
-With this project, I was finally able to try my hand at some web design, using <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> and <a href="https://en.wikipedia.org/wiki/CSS">CSS</a> to bring the data from <a href="https://github.com/sonder74/web-scraping-challenge">a former assignment</a> to life. My goal was to produce a clean, communicative website featuring visualizations related to global weather patterns.
+With this project, I was introduced to D3, a challenging method of using JavaScript to render scalable vector graphics (SVGs) inside web browsers. I was given a set of healthcare data and tasked with creating a webpage showcasing an interactive, multidimensional chart that allows users to customize their own visualizations of the information.
 
 ## Tools and Solutions
 After receiving classroom instruction on the uses of HTML and CSS, I had to learn to utilize <a href="https://getbootstrap.com/">Bootstrap</a>, an open-source CSS framework that can speed up the web-design process and make finished sites responsive to the devices accessing them. I also had to return to both <a href="https://www.python.org/">Python</a> and <a href="https://pandas.pydata.org/">Pandas</a> in order to generate <a href="https://sonder74.github.io/latitude/data">a dynamic table</a> embedded in my site's final page</a>.
